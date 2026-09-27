@@ -2,7 +2,7 @@
 
 My personal portfolio website built from scratch using HTML and CSS.
 
-🌐 **Live Demo:** https://tushars1ngh.github.io/tushar-portfolio/
+🌐 **Live Demo:** https://tushars1ngh.github.io/tushar-portfolio1/
 
 ## 📸 Preview
 
